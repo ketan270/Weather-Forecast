@@ -6,12 +6,6 @@ This is an open source project from [DevProjects.](https://www.codementor.io/pro
 
 Designed and Built with React, CSS, Chart.js, GeolocationAPI, and WeatherAPI.
 
-## Screenshots and demo
-
-![image](https://user-images.githubusercontent.com/84178696/207818453-12d1fafa-792b-4159-94f2-e929efc55e72.png)
-
-![image](https://user-images.githubusercontent.com/84178696/207818860-604879d6-d2b4-445b-99a8-70d32581e7dc.png)
-
 ### [Click to view Live Demo](https://sky-watch.vercel.app/)
 
 ## Problems and Thought Process
